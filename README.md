@@ -1,6 +1,6 @@
 # Uncursed Feedbacks
 
-This repository is used **exclusively** for GitHub Discussions to collect feedback on **Uncursed**. There is **no source code** here—only community conversation and idea sharing.
+This repository is used **exclusively** for GitHub Discussions to collect feedback on **Uncursed**. There is **no source code** here — only community conversation and idea sharing.
 
 - **Read access:** Anyone can browse discussions without a GitHub account.  
 - **Participation:** Only registered GitHub users can start or reply to discussions.
