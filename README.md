@@ -3,7 +3,7 @@
 This repository is our open port, where adventurers of **Uncursed** gather to share stories, report hazards, and plan new expeditions.
 
 - **Watch the shoreline:** Anyone can spot bottles on the sand without a GitHub token.  
-- **To send your bottle:** You must hoist the GitHub flag before casting your message into the waves.
+- **To send your bottle:** You must hoist the GitHub flag (sign in) before casting your message into the waves.
 
 ## Where to start a new discussion
 
